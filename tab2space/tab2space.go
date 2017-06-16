@@ -25,7 +25,7 @@ import (
 
 func main() {
 	if len(os.Args) < 2 {
-		fmt.Fprintf(os.Stdout, "%s: Need some files\n", os.Args[0])
+		fmt.Fprintf(os.Stdout, "%s: falta un operando\nPruebe '%s --help' para más información.\n", os.Args[0], os.Args[0])
 		os.Exit(1)
 	}
 
