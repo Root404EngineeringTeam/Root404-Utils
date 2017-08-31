@@ -11,4 +11,4 @@ Root404 - Utils is a set of tools that facilitate the manipulation of files thro
 
 ----
 ## Authors
-* **tab2space:** Alvaro Stagg [alvarostagg@openmailbox.org](mailto:alvarostagg@openmailbox.org)
+* **tab2space:** Alvaro Stagg [alvarostagg@protonmail.com](mailto:alvarostagg@protonmail.com)
